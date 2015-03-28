@@ -1,0 +1,114 @@
+[main]
+host = https://www.transifex.com
+lang_map = da_DK : da-DK
+
+[pg.j30en-gbcom_phocagalleryini]
+file_filter = site/<lang>.com_phocagallery.ini
+source_lang = en_GB
+type = INI
+
+[pg.j30en-gbcom_phocagallerysysini]
+file_filter = site/<lang>.com_phocagallery.sys.ini
+source_lang = en_GB
+type = INI
+
+[pg.j30en-gbmod_phocagallery_imageini]
+file_filter = site/<lang>.mod_phocagallery_image.ini
+source_lang = en_GB
+type = INI
+
+[pg.j30en-gbmod_phocagallery_imagesysini]
+file_filter = site/<lang>.mod_phocagallery_image.sys.ini
+source_lang = en_GB
+type = INI
+
+[pg.j30en-gbmod_phocagallery_menuini]
+file_filter = site/<lang>.mod_phocagallery_menu.ini
+source_lang = en_GB
+type = INI
+
+[pg.j30en-gbmod_phocagallery_menusysini]
+file_filter = site/<lang>.mod_phocagallery_menu.sys.ini
+source_lang = en_GB
+type = INI
+
+[pg.j30en-gbmod_phocagallery_slideshow_bxsliderini]
+file_filter = site/<lang>.mod_phocagallery_slideshow_bxslider.ini
+source_lang = en_GB
+type = INI
+
+[pg.j30en-gbmod_phocagallery_slideshow_bxslidersysini]
+file_filter = site/<lang>.mod_phocagallery_slideshow_bxslider.sys.ini
+source_lang = en_GB
+type = INI
+
+[pg.j30en-gbmod_phocagallery_treeini]
+file_filter = site/<lang>.mod_phocagallery_tree.ini
+source_lang = en_GB
+type = INI
+
+[pg.j30en-gbmod_phocagallery_treesysini]
+file_filter = site/<lang>.mod_phocagallery_tree.sys.ini
+source_lang = en_GB
+type = INI
+
+[pg.j30en-gbplg_content_phocagalleryini]
+file_filter = admin/<lang>.plg_content_phocagallery.ini
+source_lang = en_GB
+type = INI
+
+[pg.j30en-gbplg_content_phocagalleryslideshowini]
+file_filter = admin/<lang>.plg_content_phocagalleryslideshow.ini
+source_lang = en_GB
+type = INI
+
+[pg.j30en-gbplg_content_phocagalleryslideshowsysini]
+file_filter = admin/<lang>.plg_content_phocagalleryslideshow.sys.ini
+source_lang = en_GB
+type = INI
+
+[pg.j30en-gbplg_content_phocagallerysysini]
+file_filter = admin/<lang>.plg_content_phocagallery.sys.ini
+source_lang = en_GB
+type = INI
+
+[pg.j30en-gbplg_editors-xtd_phocagalleryini]
+file_filter = admin/<lang>.plg_editors-xtd_phocagallery.ini
+source_lang = en_GB
+type = INI
+
+[pg.j30en-gbplg_editors-xtd_phocagallerysysini]
+file_filter = admin/<lang>.plg_editors-xtd_phocagallery.sys.ini
+source_lang = en_GB
+type = INI
+
+[pg.j30en-gbplg_finder_phocagallerycategoryini]
+file_filter = admin/<lang>.plg_finder_phocagallerycategory.ini
+source_lang = en_GB
+type = INI
+
+[pg.j30en-gbplg_finder_phocagallerycategorysysini]
+file_filter = admin/<lang>.plg_finder_phocagallerycategory.sys.ini
+source_lang = en_GB
+type = INI
+
+[pg.j30en-gbplg_finder_phocagalleryini]
+file_filter = admin/<lang>.plg_finder_phocagallery.ini
+source_lang = en_GB
+type = INI
+
+[pg.j30en-gbplg_finder_phocagallerysysini]
+file_filter = admin/<lang>.plg_finder_phocagallery.sys.ini
+source_lang = en_GB
+type = INI
+
+[pg.j30en-gbplg_search_phocagalleryini]
+file_filter = admin/<lang>.plg_search_phocagallery.ini
+source_lang = en_GB
+type = INI
+
+[pg.j30en-gbplg_search_phocagallerysysini]
+file_filter = admin/<lang>.plg_search_phocagallery.sys.ini
+source_lang = en_GB
+type = INI
+
