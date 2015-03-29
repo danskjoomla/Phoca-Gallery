@@ -13,6 +13,8 @@
 <description>Dansk sprogpakke til Phoca Gallery</description>
 <fileset>
 <files folder="admin" target="administrator/language/da-DK">
+	<filename>da-DK.com_phocagallery.ini</filename>
+	<filename>da-DK.com_phocagallery.sys.ini</filename>
 	<filename>da-DK.plg_content_phocagallery.ini</filename>
 	<filename>da-DK.plg_content_phocagallery.sys.ini</filename>
 	<filename>da-DK.plg_content_phocagalleryslideshow.ini</filename>
